@@ -2,10 +2,14 @@
 
 OpenWrt/LEDE 多wan自动登录 LuCI 应用
 适用于 OpenWrt 23.05+ 以及 mwan3 2.10+
+## 功能特性
+
+![主页1](./images/account.png)
+![主页2](./images/interface.png)
+![模板引用](./images/setting.png)
 
 ## 目录
 
-- [功能特性](#功能特性)
 - [版本变更](#版本变更)
 - [原理](#原理)
 - [依赖](#依赖)
@@ -27,11 +31,7 @@ OpenWrt/LEDE 多wan自动登录 LuCI 应用
 - [贡献](#贡献)
 - [致谢](#致谢)
 
-## 功能特性
 
-![主页1](./images/screenshot3.jpg)
-![主页2](./images/screenshot2.jpeg)
-![模板引用](./images/scrips3.jpg)
 
 ### 核心功能
 -  支持多个 WAN 口同时管理
